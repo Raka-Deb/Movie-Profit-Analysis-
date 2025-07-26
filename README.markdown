@@ -3,6 +3,10 @@
 ## Overview
 This report presents the findings from an exploratory data analysis (EDA) conducted on the `movie_profit.csv` dataset. The dataset contains information about movies, including their release dates, titles, production budgets, domestic and worldwide gross earnings, distributors, MPAA ratings, and genres. The analysis was performed using Python with libraries such as `pandas` and `matplotlib` in a Jupyter Notebook environment (`Movies.ipynb`). The goal of this EDA is to uncover patterns, trends, and insights about movie financial performance and characteristics.
 
+
+![image_alt](https://github.com/Raka-Deb/Movie-Profit-Analysis-/blob/b52cb6547d657243a04f12f8a8b6b106a20d5ad7/Movie.jpg)
+
+
 ## Dataset Description
 The dataset consists of **3401 entries** with the following columns:
 - `Unnamed: 0`: An index column (dropped during analysis as it was redundant).
